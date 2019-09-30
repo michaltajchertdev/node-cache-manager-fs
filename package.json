@@ -1,5 +1,5 @@
 {
-  "name": "cache-manager-fs",
+  "name": "cache-manager-fs-mt",
   "version": "1.0.8",
   "description": "file system store for node cache manager",
   "keywords": [
@@ -9,10 +9,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hotelde/node-cache-manager-fs.git"
+    "url": "git+https://github.com/hotelde/node-cache-manager-fs-mt.git"
   },
   "bugs": {
-    "url": "https://github.com/hotelde/node-cache-manager-fs/issues"
+    "url": "https://github.com/michaltajchertdev/node-cache-manager-fs-mt/issues"
   },
   "main": "index.js",
   "scripts": {
